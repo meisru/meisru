@@ -1,16 +1,16 @@
-## Hi there 👋
+# About me 🌸
 
-<!--
-**meisru/meisru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate computer science student, currently diving into **front-end web development**, with an aspire to become a full-stack developer. My vision is to create impactful and valuable websites and applications.
 
-Here are some ideas to get you started:
+I am very enthusiastic about making the technical and visual elements of digital products come to life. I care deeply about user experience, achieving precise design details, and writing clean, efficient code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I began my journey in 2022, and since then, I've continued to grow, taking on new challenges and learning new things along the way. 
+
+When I'm not on developer mode, you'll find me reading, learning new things, or enjoying some free time 📚.
+
+📫 **How to reach me**:
+
+- [Linkedin](linkedin.com/in/رودي-العيدان-9a479b2b0)
+- Email: rudialeidan@gmail.com
+
+Feel free to reach out and say hello! That'll make me happy 💕
