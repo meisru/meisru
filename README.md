@@ -10,7 +10,7 @@ When I'm not on developer mode, you'll find me reading, learning new things, or 
 
 📫 **How to reach me**:
 
-- [Linkedin](linkedin.com/in/رودي-العيدان-9a479b2b0)
+- [Linkedin](https://www.linkedin.com/in/rody-aleidan-9a479b2b0/)
 - Email: rudialeidan@gmail.com
 
 Feel free to reach out and say hello! That'll make me happy 💕
