@@ -4,7 +4,7 @@ I'm a passionate computer science student with an aspire to become a full-stack 
 
 📫 **How to reach me**:
 
-- [Linkedin](https://www.linkedin.com/in/rody-aleidan-9a479b2b0/)
+- [Linkedin](https://www.linkedin.com/in/rudi-aleidan-9a479b2b0/)
 - Email: rudialeidan@gmail.com
 
 Feel free to reach out and say hello! 💕
