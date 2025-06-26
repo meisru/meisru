@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Welcome to my space on GitHub! I'm a curious software developer who enjoys building meaningful things.<br>Feel free to explore my repositories, reach out, or just say hi <3.</p>
+<p align="left">Welcome to my space on GitHub! I'm a curious full-stack software developer who enjoys building meaningful things.<br>Feel free to explore my repositories, reach out, or just say hi <3.</p>
 
 ###
 
